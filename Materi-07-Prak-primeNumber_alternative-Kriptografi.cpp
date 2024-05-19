@@ -1,3 +1,8 @@
+/* 
+    Matematika Diskrit Materi 07 Bilangan Prima Matematika dasar Enkripsi Kriptografi
+    by hafizhhasyhari
+8?
+
 #include <iostream>
 #include <cmath>
 #include <chrono>
